@@ -1,5 +1,9 @@
 ![Shot Matcher](docs/shot-matcher-logo.png)
 
+> Note: do not use releases - since the official docs are now gone,
+> you can just download as a zip directly.
+
+
 This Blender add-on improves the compositing workflow
 by matching two layers or shots together via color grading.
 After analyzing the color ranges of two layers,
