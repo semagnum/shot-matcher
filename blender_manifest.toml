@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "shot_matcher"
 version = "3.5.4"
 name = "Shot Matcher"
-tagline = "Analyzes colors of an image or movie clip and applies it in the compositor"
+tagline = "Apply color matching between images or clips in the compositor"
 maintainer = "Spencer Magnusson <semagnum+blenderextensions@gmail.com>"
 type = "add-on"
 
